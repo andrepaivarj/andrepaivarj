@@ -1,7 +1,7 @@
 ### Oi! Eu sou o André Paiva 👋
 
 - 🔭 Hoje sou estudante de graduação da UERJ (Universidade do Estado do Rio de Janeiro) 
-- 🌱 No momento, estudando novas linguagens de programação: JavaScript, HTML e CSS 
+- 🌱 No momento, estudando novas linguagens de programação, como JavaScript
 
 <div>
   <a href="https://github.com/andrepaivarj">
