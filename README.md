@@ -7,7 +7,7 @@
 
 #Estou aprendendo:
 <div>
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    <link rel="stylesheet" type='text/css' height=30 width=30 href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />     
 </div>
   
