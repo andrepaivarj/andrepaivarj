@@ -1,8 +1,8 @@
 <h1>Oi! Eu sou o André Paiva 👋</h1>
 
-<h2>Atualmente estudo na Universidade do Estado do Rio de Janeiro (UERJ)
+<p>Atualmente estudo na Universidade do Estado do Rio de Janeiro (UERJ)
   <img src= 'https://images.seeklogo.com/logo-png/14/2/universi…al-do-rio-de-janeiro-logo-png_seeklogo-145821.png'>
-</h2>
+</p>
 
 
 <div style="display: inline_block"><br>
