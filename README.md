@@ -1,4 +1,4 @@
-### Oi! Eu sou o André Paiva 👋
+<h1>Oi! Eu sou o André Paiva 👋</h1>
 
 - 🔭 Hoje sou estudante de graduação da UERJ (Universidade do Estado do Rio de Janeiro) 
 - 🌱 No momento, estudando novas linguagens de programação, como JavaScript
@@ -11,8 +11,6 @@
   <img align="center" alt="Bea-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
 </div>
-  
-##
 
 <div>
   <a href="https://instagram.com/andrepaiva.rj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
