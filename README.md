@@ -1,13 +1,13 @@
-#Olá! Bem-vindos ao meu perfil do GitHub 🤙
+# Olá! Bem-vindos ao meu perfil do GitHub 🤙
 ## Eu sou o André Paiva 👋
 
 - 🔭 Atualmente estou estudando na Universidade do Estado do Rio de Janeiro (UERJ)
 - 🌱 Atualmente estou aprendendo consumo de API's
 - 👨🏽‍💻 Estou procurando me tornar um Dev. Back End em diversas linguagens, começando por Python.
 
-#Estou aprendendo:
+# Estou aprendendo:
 <div>
-    <link rel="stylesheet" type='text/css' height=30 width=30 href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    <link rel="stylesheet" type='text/css' height=10 width=10 href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />     
 </div>
   
