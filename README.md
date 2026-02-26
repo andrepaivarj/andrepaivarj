@@ -1,7 +1,8 @@
 <h1>Oi! Eu sou o André Paiva 👋</h1>
 
-- 🔭 Hoje sou estudante de graduação da UERJ (Universidade do Estado do Rio de Janeiro) 
-- 🌱 No momento, estudando novas linguagens de programação, como JavaScript
+<h2>Atualmente estudo na Universidade do Estado do Rio de Janeiro (UERJ)
+  <img src= 'https://images.seeklogo.com/logo-png/14/2/universi…al-do-rio-de-janeiro-logo-png_seeklogo-145821.png'>
+</h2>
 
 
 <div style="display: inline_block"><br>
