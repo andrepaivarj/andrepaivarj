@@ -5,13 +5,17 @@
 - 🌱 Atualmente estou aprendendo consumo de API's
 - 👨🏽‍💻 Estou procurando me tornar um Dev. Back End em diversas linguagens, começando por Python.
 
-# Estou aprendendo:
+### Estou aprendendo:
 <div>
     <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
     <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />      
 </div>
-  
 
+### Ferramentas que já domino:
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />      
+</div>
 
 <div>
   <a href="https://instagram.com/andrepaiva.rj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
