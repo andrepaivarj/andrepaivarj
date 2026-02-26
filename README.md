@@ -7,8 +7,8 @@
 
 # Estou aprendendo:
 <div>
-    <link rel="stylesheet" type='text/css' height=10 width=10 href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-    <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />     
+    <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+    <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />      
 </div>
   
 
