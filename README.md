@@ -8,7 +8,7 @@
 # Estou aprendendo:
 <div>
     <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-    <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />      
+    <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />      
 </div>
   
 
